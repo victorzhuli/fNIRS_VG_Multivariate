@@ -1,2 +1,2 @@
 # fNIRS_VG_Multivariate
-This is the project for SPIE Conference 2017
+This is the project for multivariate analysis on fNIRS signals.
